@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>list</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<div style="background: url(images/bg.gif);" >
+
+<table width="53.8%" align="center" background="images/banner.jpg">
+	
+	<tr>
+		<td>&nbsp;<a href="content.html"><font color="white">首页</font></a></td>
+		<td><a href="content.html"><font color="white">学校概况</font></a></td>
+		<td><a href="content.html"><font color="white">规章制度</font></a></td>
+		<td><a href="content.html"><font color="white">教育网</font></a></td>
+		<td><a href="content.html"><font color="white">教研网</font></a></td>
+		<td><a href="content.html"><font color="white">名师风采</font></a></td>
+		<td><a href="content.html"><font color="white">高考专栏</font></a></td>
+		<td><a href="content.html"><font color="white">图书馆</font></a></td>
+		<td><a href="content.html"><font color="white">校友会</font></a></td>
+		<td><a href="content.html"><font color="white">河中论坛</font></a></td>
+		<td><a href="content.html"><font color="white">查询系统</font></a></td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="11">&nbsp;</td>
+	</tr>
+</table></div>
+
+
+
+
+<table  align="center">
+<tr >
+	<td width="22%">
+			<font size="5"><b>学校概况</b></font>
+			<hr/>
+		<ul>
+			<li><a href="content.html">学校简介</a></li>
+			<li><a href="content.html">现任领导</a></li>
+			<li><a href="content.html">光荣历史</a></li>
+			<li><a href="content.html">所获荣誉</a></li>
+			<li><a href="content.html">图说河中</a></li>
+		</ul>
+			<img src="images/tjpic.gif"><br/>
+			<img src="images/pic.gif"><br/><br/>
+			[组图]我校被评为“石家庄市<br/>2010-2011年度文明单位”
+
+	</td>
+		
+			
+		
+
+	<td width="78%">
+			<font size="4"><b>所获荣誉</b></font>
+			<hr/>
+
+			<li><font size="3" ><a href="content.html">[图文]我校被授予“2012年高中教学先进单位”“2012年高中增值奖”等荣誉称号</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校被评为“石家庄市2010-2011年度文明单位”</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校被授予“河北省体育传统项目学校”荣誉称号</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校被授予“影子教师”培训基地</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校荣获“2010-2012年石家庄市创先争优县级基层党组织荣誉称号”</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校荣获石家庄市妇联系统先进集体称号</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校离退休干部党支部被评为“先进离退休干部党支部”荣誉称号</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校荣获“2010年度住房公积金管理先进单位”</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[图文]我校荣获石家庄市"2010年度实绩突出领导班子"荣誉称号</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校荣获首批“河北省现代教育技术示范学校”</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[图文]我校被授予"2010年高中教学先进单位""2012年高中增值奖"等荣誉称号</a> 2015-05-10</li>
+			<li><font size="3" ><a href="content.html">[组图]我校被评为"石家庄市2010-2011年度文明单位"</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校被授予"河北省体育传统项目学校"荣誉称号</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校被授予“影子教师”培训基地</a> 2015-05-10</font></li>
+			<li><font size="3" ><a href="content.html">[组图]我校荣获“2010-2012年石家庄市创先争优县级基层党组织荣誉称号”</a> 2015-05-10</font></li>
+		<br/>
+		<a href="content.html">上一页</a>&nbsp;&nbsp;
+		<a href="content.html">1</a>&nbsp;&nbsp;
+		<a href="content.html">2</a>&nbsp;&nbsp;
+		<a href="content.html">3</a>&nbsp;&nbsp;
+		<a href="content.html">4</a>&nbsp;&nbsp;
+		<a href="content.html">5</a>&nbsp;&nbsp;
+		<a href="content.html">6</a>&nbsp;&nbsp;
+		<a href="content.html">下一页</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	</td>
+</tr>
+</table>
+<div style="background: url(images/foot_bg.gif);" >
+<table >
+<td>&nbsp;&nbsp;&nbsp;</td>
+<tr><td><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copynight@2008-206 http://www.***.com All Rights Reserved 网站备案：冀lcp备00000000号</font></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td></tr>
+</table>
+
+</body>
+</html>
